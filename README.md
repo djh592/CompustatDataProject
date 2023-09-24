@@ -1,6 +1,6 @@
-# Compustat Golbal 财务数据收集  
+# Compustat Global 财务数据收集  
 
-本项目旨在收集处理Compustat global的财务数据。在此过程中，我们将使用Compustat Global的财务数据和股价数据，并将数据合并为一个统一的数据集。最终，我们将输出处理后的数据以及验证结果。
+本项目旨在收集处理Compustat Global的财务数据。在此过程中，我们将使用Compustat Global的财务数据和股价数据，并将数据合并为一个统一的数据集。最终，我们将输出处理后的数据以及验证结果。
 
 ## 安装
 
@@ -78,14 +78,10 @@ Fundamentals Annual包含变量：
 - Treasury Stock - Number of Common Shares - Issue (TSTKNI)
 - Research and Development Expense (XRD)   
 
-可在 `data/hmji7l6oih5ry4a5.csv` 中找到该数据。
-
 Security Monthly包含变量：
 - International Security Identification Number (isin)
 - Security Monthly (datadate)
 - Close - Monthly (prccm)
-
-可在 `data/nnswdeirjo2zhlef.csv` 中找到该数据。
 
 
 
